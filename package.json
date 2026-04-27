@@ -1,0 +1,13 @@
+{
+  "name": "twspk",
+  "version": "1.0.0",
+  "description": "基于ReaLab阅真实验室的耳机测试数据重渲染",
+  "license": "MIT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
